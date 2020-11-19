@@ -1,0 +1,160 @@
+.all{
+    width:800px;
+     height: auto; 
+     margin:10px auto
+}
+
+.menu {
+    width:400px;
+     height:50px;
+     margin: 0 0 0 11px
+}
+
+.menu ul {
+    padding: 0;
+    margin: 0; 
+    list-style: none
+}
+
+.menu ul li {
+    float: left
+}
+
+.menu ul li a { 
+    display: block;
+     text-indent: -2000px
+}
+
+.menu ul li#about a { 
+    background: url("images/css-baliklama16.gif") 0 -100px no-repeat;
+    width: 71px;
+    height: 50px
+}
+
+.menu ul li#services a { 
+    background: url("images/css-baliklama17.gif") 0 0 no-repeat; 
+    width: 84px;
+    height: 50px
+}
+
+.menu ul li#portfolio a {
+    background: url("images/css-baliklama18.gif") no-repeat;
+
+    width:95px; 
+    height: 50px
+}
+
+ .menu ul li#contact a {
+     background: url("images/css-baliklama19.gif") no-repeat;
+     width: 106px;
+      height: 50px
+}
+
+.menu ul li#services a:hover {
+     background: url("images/css-baliklama17.gif") 0 -100px no-repeat;
+     color: #FFFFFF
+} 
+
+.menu ul li#portfolio a:hover {
+    background: url("images/css-baliklama18.gif") 0 -100px no-repeat;
+    width:95px;
+     height: 50px ; 
+     color: #FFFFFF
+} 
+
+.menu ul li#contact a:hover {
+    background: url("images/css-baliklama19.gif") 0 -100px no-repeat;
+     width: 106px;
+      height: 50px;
+       color: #FFFFFF
+} 
+
+    .head {
+        width:280px; height:93px; background: url("images/about.jpg");
+         font: bold 25px tahoma; 
+         color:#FFFFFF ; 
+         padding: 57px 0 0 520px
+}
+
+    .ortasol { 
+        width: 420px;
+        height: 330px;
+         float: left; 
+         font: 12px tahoma;
+          color: #888888; 
+          padding: 15px 0 0 0 
+}
+
+    .ortasag {
+        width: 360px;
+         height: 330px; 
+         float: left; 
+         margin:  0 0 0 20px;
+          font: 12px tahoma;
+           color: #888888 
+}
+
+    .footerleft{
+         width: 440px;
+         height: 70px; 
+         float: left; 
+         font: 10px tahoma; 
+         color:  #CFCFCF;
+         padding: 20px 0 0 0; 
+         border-top: 1px solid #9E9E9E
+}
+
+    .footerright{
+        width: 360px;
+         height:70px;
+          float: left; 
+          border-top: 1px solid #9e8585
+}
+
+    .footerright ul{
+        margin: 0;
+         padding: 0; 
+         list-style: none
+}
+
+    .footerright ul li {
+        float: left
+}
+
+    .footerright ul li a{ 
+        font:10px tahoma; 
+        color: #CFCFCF; 
+        display: block;
+         text-decoration: none;
+         text-align: center; 
+         text-transform: capitalize; 
+         padding: 25px 0 0 0
+}
+
+    .footerright ul li:hover a{
+    color: #E97A24; 
+    text-decoration: underline
+}
+
+.about1{
+    font: bold 15px tahoma; 
+    color: #E97A24
+}
+
+.enligdes{
+    font: bold 18px tahoma; 
+    color: #E3E3E3
+}
+
+.contact{
+    font: 20px arial;
+     color: #E97A24
+}
+
+    .design{
+        font: 20px tahoma
+}
+.footerright ul li#servic a{ 
+    color:#E97A24; 
+    font:12px tahoma
+}
